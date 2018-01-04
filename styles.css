@@ -1,0 +1,26 @@
+/* add your CSS here */
+
+.list {
+    font-weight: bold;
+}
+
+li{
+    list-style-type: none;
+}
+
+#name {
+    font-style: italic;
+}
+
+.container {
+    width: 400px;
+    margin: 0px auto;
+    border: 1px solid grey;
+    padding: 10px;
+}
+
+.inner-container {
+    border: 1px solid grey;
+    padding: 10px;
+    
+}
